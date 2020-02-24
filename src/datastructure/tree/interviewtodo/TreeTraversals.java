@@ -25,7 +25,7 @@ public class TreeTraversals {
 	}
 }
 
-class TreeTraversalsImpl { 
+class TreeTraversalsImpl {
 	public void preOrder(Node node) {
 		if( node == null ) return;
 		
